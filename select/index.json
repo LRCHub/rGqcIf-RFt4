@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "reincarnated",
+  "base_artist": "Kendrick Lamar",
+  "createdAt": "2026-03-08T01:55:33.154077Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Reincarnated Souls",
+      "artist": "Bob Marley & The Wailers",
+      "has_synced": true,
+      "path": "select/01_Reincarnated_Souls_Bob_Marley_&_The_Wailers.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Reincarnated Souls",
+      "artist": "The Wailers",
+      "has_synced": true,
+      "path": "select/02_Reincarnated_Souls_The_Wailers.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Reincarnated Souls",
+      "artist": "Bob Marley",
+      "has_synced": true,
+      "path": "select/03_Reincarnated_Souls_Bob_Marley.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Block Reincarnated (Remix) - Album Version (Edited)",
+      "artist": "Shawnna feat. Kardinal Offishall",
+      "has_synced": false,
+      "path": "select/04_Block_Reincarnated_(Remix)_-_Album_Version_(Edited)_Shawnna_feat._Kardinal_Offishall.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Meguru Mono - From \"That Time I Got Reincarnated as a Slime\"",
+      "artist": "Shayne Orok",
+      "has_synced": false,
+      "path": "select/05_Meguru_Mono_-_From__That_Time_I_Got_Reincarnated_as_a_Slime_Shayne_Orok.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Nameless Story (That Time I Got Reincarnated As a Slime)",
+      "artist": "Shayne Orok",
+      "has_synced": true,
+      "path": "select/06_Nameless_Story_(That_Time_I_Got_Reincarnated_As_a_Slime)_Shayne_Orok.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Reincarnated",
+      "artist": "X Ambassadors",
+      "has_synced": true,
+      "path": "select/07_Reincarnated_X_Ambassadors.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Reincarnated Soul",
+      "artist": "Bob Marley & The Wailers",
+      "has_synced": false,
+      "path": "select/08_Reincarnated_Soul_Bob_Marley_&_The_Wailers.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Reincarnated Soul",
+      "artist": "The Wailers",
+      "has_synced": false,
+      "path": "select/09_Reincarnated_Soul_The_Wailers.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Reincarnated Love",
+      "artist": "Nekromantix",
+      "has_synced": true,
+      "path": "select/10_Reincarnated_Love_Nekromantix.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Reincarnated Souls",
+      "artist": "The Wailers",
+      "has_synced": true,
+      "path": "select/11_Reincarnated_Souls_The_Wailers.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Pumpkin (feat. Lucia) [Reincarnated]",
+      "artist": "Tricky",
+      "has_synced": false,
+      "path": "select/12_Pumpkin_(feat._Lucia)_[Reincarnated]_Tricky.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Pumpkin (Reincarnated) (feat. Lucia)",
+      "artist": "Tricky",
+      "has_synced": false,
+      "path": "select/13_Pumpkin_(Reincarnated)_(feat._Lucia)_Tricky.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Reincarnated Souls",
+      "artist": "Bob Marley",
+      "has_synced": true,
+      "path": "select/14_Reincarnated_Souls_Bob_Marley.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Strugglin’ (Reincarnated)",
+      "artist": "Tricky",
+      "has_synced": false,
+      "path": "select/15_Strugglin’_(Reincarnated)_Tricky.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Aftermath (Reincarnated)",
+      "artist": "Tricky",
+      "has_synced": false,
+      "path": "select/16_Aftermath_(Reincarnated)_Tricky.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Hell Is Round the Corner (Reincarnated)",
+      "artist": "Tricky",
+      "has_synced": false,
+      "path": "select/17_Hell_Is_Round_the_Corner_(Reincarnated)_Tricky.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "reincarnated",
+      "artist": "Kendrick Lamar",
+      "has_synced": false,
+      "path": "select/pl_01_reincarnated_Kendrick_Lamar.txt"
+    }
+  ]
+}
